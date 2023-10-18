@@ -1,2 +1,2 @@
 # gAnderWorld
-Personnel Portfolio
+--lorem ipsum --
